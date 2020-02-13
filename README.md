@@ -1,5 +1,7 @@
 # Jabodetabek-Capstone-Project
 
+This study is inspired by Sercan Yildiz [House Sales Prices and Venues in Istanbul](https://towardsdatascience.com/housing-sales-prices-venues-in-istanbul-dbdefb8b06f0) article, thank you so much Sercan !!!
+
 ## Description & Disscusion of the Background
 
 Jakarta is the capital and largest city of Indonesia. Situated on the northwest coast of the world's most populous island of Java, it is the centre of economy, culture and politics of Indonesia with a population of more than ten million as of 2014. Albeit only covers 699.5 square kilometres, the smallest among any Indonesian provinces, its metropolitan area covers 6,392 square kilometres; it is the world's second most populous urban area after Tokyo, with a population of about 30 million as of 2010. Jakarta's business opportunities, as well as its potential to offer a higher standard of living, have attracted migrants from across the Indonesian archipelago, making it a melting pot of numerous cultures. The city proper has a very high population density of 14,464 people per square kilometer, while the metro area has a density of 4,383 people/sq km. [1]
